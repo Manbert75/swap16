@@ -1,0 +1,6 @@
+##Ejercicio 1.1: Buscar información sobre el tipo de contenido para el que los siguientes software de servidor web es más adecuado: apache, nginx, cherooke, lighttp, node.js.##
+**-Apache:** Es el mas usado, sirve tanto para webs estaticas como dinamicas, su configuracion es sencilla y ademas soporta modulos externos.
+**-Nginx:** Es un servidor web/proxy ligero y de alto rendimiento, es mas liviano que Apache aunque con menos modulos.
+**-Lighttpd:** Es un servidor web diseñado para ser rapido, seguro y flexible, esta optimizado para entornos donde la velocidad es lo mas importante, consume menos CPU y RAM que otros, es muy usado para PHP.
+**-Cherokee:** Su objetivo es ser rapido y funcional sin dejar de ser liviano, actualmente esta sin desarrollo.
+**-node.js:** Es un servidor de aplicaciones javascript, basado en el motor v8 de google chrome.
